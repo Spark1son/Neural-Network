@@ -1,0 +1,34 @@
+
+---
+
+## Notebook Overview
+
+### `KNN_CNN.ipynb` includes:
+
+- Dataset loading and preprocessing (CIFAR-10)
+- CNN architecture definition
+- Feature extraction from intermediate CNN layers
+- KNN classifier training on extracted features
+- Performance evaluation and accuracy analysis
+
+The notebook is written with clarity and inline comments to explain each step.
+
+---
+
+## Dataset
+
+- **CIFAR-10**
+  - 60,000 RGB images (32×32)
+  - 10 object categories
+  - Automatically downloaded via Torchvision
+
+No dataset files are stored in this repository.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Spark1son/Neural-Network.git
+   cd Neural-Network
